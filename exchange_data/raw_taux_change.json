@@ -1,0 +1,2420 @@
+[
+    {
+        "date": "05/14/2025",
+        "devise_complete": "1 EURO",
+        "taux_achat": "10,0812 ",
+        "taux_vente": "11,7160 "
+    },
+    {
+        "date": "05/14/2025",
+        "devise_complete": "1 DOLLAR U.S.A.",
+        "taux_achat": "9,00670 ",
+        "taux_vente": "10,4673 "
+    },
+    {
+        "date": "05/14/2025",
+        "devise_complete": "1 DOLLAR CANADIEN",
+        "taux_achat": "6,46850 ",
+        "taux_vente": "7,51750 "
+    },
+    {
+        "date": "05/14/2025",
+        "devise_complete": "1 LIVRE STERLING",
+        "taux_achat": "11,9840 ",
+        "taux_vente": "13,9280 "
+    },
+    {
+        "date": "05/14/2025",
+        "devise_complete": "1 LIVRE GIBRALTAR",
+        "taux_achat": "11,9840 ",
+        "taux_vente": "13,9280 "
+    },
+    {
+        "date": "05/14/2025",
+        "devise_complete": "1 FRANC SUISSE",
+        "taux_achat": "10,7360 ",
+        "taux_vente": "12,4780 "
+    },
+    {
+        "date": "05/14/2025",
+        "devise_complete": "1 RIYAL SAOUDIEN",
+        "taux_achat": "2,40130 ",
+        "taux_vente": "2,79070 "
+    },
+    {
+        "date": "05/14/2025",
+        "devise_complete": "1 DINAR KOWEITIEN",
+        "taux_achat": "29,2990 ",
+        "taux_vente": "34,0510 "
+    },
+    {
+        "date": "05/14/2025",
+        "devise_complete": "1 DIRHAM E.A.U.",
+        "taux_achat": "2,45220 ",
+        "taux_vente": "2,84980 "
+    },
+    {
+        "date": "05/14/2025",
+        "devise_complete": "1 RIYAL QATARI",
+        "taux_achat": "2,47070 ",
+        "taux_vente": "2,87130 "
+    },
+    {
+        "date": "05/14/2025",
+        "devise_complete": "1 DINAR BAHREINI",
+        "taux_achat": "23,8910 ",
+        "taux_vente": "27,7650 "
+    },
+    {
+        "date": "05/14/2025",
+        "devise_complete": "100 YENS JAPONAIS",
+        "taux_achat": "6,12500 ",
+        "taux_vente": "7,11820 "
+    },
+    {
+        "date": "05/14/2025",
+        "devise_complete": "1 RIYAL OMANI",
+        "taux_achat": "23,3940 ",
+        "taux_vente": "27,1880 "
+    },
+    {
+        "date": "05/13/2025",
+        "devise_complete": "1 EURO",
+        "taux_achat": "10,0560 ",
+        "taux_vente": "11,6868 "
+    },
+    {
+        "date": "05/13/2025",
+        "devise_complete": "1 DOLLAR U.S.A.",
+        "taux_achat": "9,04240 ",
+        "taux_vente": "10,5088 "
+    },
+    {
+        "date": "05/13/2025",
+        "devise_complete": "1 DOLLAR CANADIEN",
+        "taux_achat": "6,47130 ",
+        "taux_vente": "7,52070 "
+    },
+    {
+        "date": "05/13/2025",
+        "devise_complete": "1 LIVRE STERLING",
+        "taux_achat": "11,9450 ",
+        "taux_vente": "13,8810 "
+    },
+    {
+        "date": "05/13/2025",
+        "devise_complete": "1 LIVRE GIBRALTAR",
+        "taux_achat": "11,9450 ",
+        "taux_vente": "13,8810 "
+    },
+    {
+        "date": "05/13/2025",
+        "devise_complete": "1 FRANC SUISSE",
+        "taux_achat": "10,7420 ",
+        "taux_vente": "12,4840 "
+    },
+    {
+        "date": "05/13/2025",
+        "devise_complete": "1 RIYAL SAOUDIEN",
+        "taux_achat": "2,41080 ",
+        "taux_vente": "2,80180 "
+    },
+    {
+        "date": "05/13/2025",
+        "devise_complete": "1 DINAR KOWEITIEN",
+        "taux_achat": "29,4060 ",
+        "taux_vente": "34,1740 "
+    },
+    {
+        "date": "05/13/2025",
+        "devise_complete": "1 DIRHAM E.A.U.",
+        "taux_achat": "2,46190 ",
+        "taux_vente": "2,86110 "
+    },
+    {
+        "date": "05/13/2025",
+        "devise_complete": "1 RIYAL QATARI",
+        "taux_achat": "2,48050 ",
+        "taux_vente": "2,88270 "
+    },
+    {
+        "date": "05/13/2025",
+        "devise_complete": "1 DINAR BAHREINI",
+        "taux_achat": "23,9850 ",
+        "taux_vente": "27,8750 "
+    },
+    {
+        "date": "05/13/2025",
+        "devise_complete": "100 YENS JAPONAIS",
+        "taux_achat": "6,11550 ",
+        "taux_vente": "7,10710 "
+    },
+    {
+        "date": "05/13/2025",
+        "devise_complete": "1 RIYAL OMANI",
+        "taux_achat": "23,4870 ",
+        "taux_vente": "27,2950 "
+    },
+    {
+        "date": "05/12/2025",
+        "devise_complete": "1 EURO",
+        "taux_achat": "10,0549 ",
+        "taux_vente": "11,6855 "
+    },
+    {
+        "date": "05/12/2025",
+        "devise_complete": "1 DOLLAR U.S.A.",
+        "taux_achat": "9,04470 ",
+        "taux_vente": "10,5114 "
+    },
+    {
+        "date": "05/12/2025",
+        "devise_complete": "1 DOLLAR CANADIEN",
+        "taux_achat": "6,47670 ",
+        "taux_vente": "7,52690 "
+    },
+    {
+        "date": "05/12/2025",
+        "devise_complete": "1 LIVRE STERLING",
+        "taux_achat": "11,9330 ",
+        "taux_vente": "13,8690 "
+    },
+    {
+        "date": "05/12/2025",
+        "devise_complete": "1 LIVRE GIBRALTAR",
+        "taux_achat": "11,9330 ",
+        "taux_vente": "13,8690 "
+    },
+    {
+        "date": "05/12/2025",
+        "devise_complete": "1 FRANC SUISSE",
+        "taux_achat": "10,7190 ",
+        "taux_vente": "12,4570 "
+    },
+    {
+        "date": "05/12/2025",
+        "devise_complete": "1 RIYAL SAOUDIEN",
+        "taux_achat": "2,41140 ",
+        "taux_vente": "2,80240 "
+    },
+    {
+        "date": "05/12/2025",
+        "devise_complete": "1 DINAR KOWEITIEN",
+        "taux_achat": "29,4420 ",
+        "taux_vente": "34,2160 "
+    },
+    {
+        "date": "05/12/2025",
+        "devise_complete": "1 DIRHAM E.A.U.",
+        "taux_achat": "2,46240 ",
+        "taux_vente": "2,86180 "
+    },
+    {
+        "date": "05/12/2025",
+        "devise_complete": "1 RIYAL QATARI",
+        "taux_achat": "2,48120 ",
+        "taux_vente": "2,88360 "
+    },
+    {
+        "date": "05/12/2025",
+        "devise_complete": "1 DINAR BAHREINI",
+        "taux_achat": "23,9910 ",
+        "taux_vente": "27,8810 "
+    },
+    {
+        "date": "05/12/2025",
+        "devise_complete": "100 YENS JAPONAIS",
+        "taux_achat": "6,12820 ",
+        "taux_vente": "7,12200 "
+    },
+    {
+        "date": "05/12/2025",
+        "devise_complete": "1 RIYAL OMANI",
+        "taux_achat": "23,4920 ",
+        "taux_vente": "27,3020 "
+    },
+    {
+        "date": "05/11/2025",
+        "devise_complete": "1 EURO",
+        "taux_achat": null,
+        "taux_vente": null
+    },
+    {
+        "date": "05/11/2025",
+        "devise_complete": "1 DOLLAR U.S.A.",
+        "taux_achat": null,
+        "taux_vente": null
+    },
+    {
+        "date": "05/11/2025",
+        "devise_complete": "1 DOLLAR CANADIEN",
+        "taux_achat": null,
+        "taux_vente": null
+    },
+    {
+        "date": "05/11/2025",
+        "devise_complete": "1 LIVRE STERLING",
+        "taux_achat": null,
+        "taux_vente": null
+    },
+    {
+        "date": "05/11/2025",
+        "devise_complete": "1 LIVRE GIBRALTAR",
+        "taux_achat": null,
+        "taux_vente": null
+    },
+    {
+        "date": "05/11/2025",
+        "devise_complete": "1 FRANC SUISSE",
+        "taux_achat": null,
+        "taux_vente": null
+    },
+    {
+        "date": "05/11/2025",
+        "devise_complete": "1 RIYAL SAOUDIEN",
+        "taux_achat": null,
+        "taux_vente": null
+    },
+    {
+        "date": "05/11/2025",
+        "devise_complete": "1 DINAR KOWEITIEN",
+        "taux_achat": null,
+        "taux_vente": null
+    },
+    {
+        "date": "05/11/2025",
+        "devise_complete": "1 DIRHAM E.A.U.",
+        "taux_achat": null,
+        "taux_vente": null
+    },
+    {
+        "date": "05/11/2025",
+        "devise_complete": "1 RIYAL QATARI",
+        "taux_achat": null,
+        "taux_vente": null
+    },
+    {
+        "date": "05/11/2025",
+        "devise_complete": "1 DINAR BAHREINI",
+        "taux_achat": null,
+        "taux_vente": null
+    },
+    {
+        "date": "05/11/2025",
+        "devise_complete": "100 YENS JAPONAIS",
+        "taux_achat": null,
+        "taux_vente": null
+    },
+    {
+        "date": "05/11/2025",
+        "devise_complete": "1 RIYAL OMANI",
+        "taux_achat": null,
+        "taux_vente": null
+    },
+    {
+        "date": "05/10/2025",
+        "devise_complete": "1 EURO",
+        "taux_achat": null,
+        "taux_vente": null
+    },
+    {
+        "date": "05/10/2025",
+        "devise_complete": "1 DOLLAR U.S.A.",
+        "taux_achat": null,
+        "taux_vente": null
+    },
+    {
+        "date": "05/10/2025",
+        "devise_complete": "1 DOLLAR CANADIEN",
+        "taux_achat": null,
+        "taux_vente": null
+    },
+    {
+        "date": "05/10/2025",
+        "devise_complete": "1 LIVRE STERLING",
+        "taux_achat": null,
+        "taux_vente": null
+    },
+    {
+        "date": "05/10/2025",
+        "devise_complete": "1 LIVRE GIBRALTAR",
+        "taux_achat": null,
+        "taux_vente": null
+    },
+    {
+        "date": "05/10/2025",
+        "devise_complete": "1 FRANC SUISSE",
+        "taux_achat": null,
+        "taux_vente": null
+    },
+    {
+        "date": "05/10/2025",
+        "devise_complete": "1 RIYAL SAOUDIEN",
+        "taux_achat": null,
+        "taux_vente": null
+    },
+    {
+        "date": "05/10/2025",
+        "devise_complete": "1 DINAR KOWEITIEN",
+        "taux_achat": null,
+        "taux_vente": null
+    },
+    {
+        "date": "05/10/2025",
+        "devise_complete": "1 DIRHAM E.A.U.",
+        "taux_achat": null,
+        "taux_vente": null
+    },
+    {
+        "date": "05/10/2025",
+        "devise_complete": "1 RIYAL QATARI",
+        "taux_achat": null,
+        "taux_vente": null
+    },
+    {
+        "date": "05/10/2025",
+        "devise_complete": "1 DINAR BAHREINI",
+        "taux_achat": null,
+        "taux_vente": null
+    },
+    {
+        "date": "05/10/2025",
+        "devise_complete": "100 YENS JAPONAIS",
+        "taux_achat": null,
+        "taux_vente": null
+    },
+    {
+        "date": "05/10/2025",
+        "devise_complete": "1 RIYAL OMANI",
+        "taux_achat": null,
+        "taux_vente": null
+    },
+    {
+        "date": "05/09/2025",
+        "devise_complete": "1 EURO",
+        "taux_achat": "10,1022 ",
+        "taux_vente": "11,7404 "
+    },
+    {
+        "date": "05/09/2025",
+        "devise_complete": "1 DOLLAR U.S.A.",
+        "taux_achat": "8,97650 ",
+        "taux_vente": "10,4321 "
+    },
+    {
+        "date": "05/09/2025",
+        "devise_complete": "1 DOLLAR CANADIEN",
+        "taux_achat": "6,45140 ",
+        "taux_vente": "7,49760 "
+    },
+    {
+        "date": "05/09/2025",
+        "devise_complete": "1 LIVRE STERLING",
+        "taux_achat": "11,9100 ",
+        "taux_vente": "13,8420 "
+    },
+    {
+        "date": "05/09/2025",
+        "devise_complete": "1 LIVRE GIBRALTAR",
+        "taux_achat": "11,9100 ",
+        "taux_vente": "13,8420 "
+    },
+    {
+        "date": "05/09/2025",
+        "devise_complete": "1 FRANC SUISSE",
+        "taux_achat": "10,8110 ",
+        "taux_vente": "12,5650 "
+    },
+    {
+        "date": "05/09/2025",
+        "devise_complete": "1 RIYAL SAOUDIEN",
+        "taux_achat": "2,39330 ",
+        "taux_vente": "2,78130 "
+    },
+    {
+        "date": "05/09/2025",
+        "devise_complete": "1 DINAR KOWEITIEN",
+        "taux_achat": "29,2680 ",
+        "taux_vente": "34,0140 "
+    },
+    {
+        "date": "05/09/2025",
+        "devise_complete": "1 DIRHAM E.A.U.",
+        "taux_achat": "2,44390 ",
+        "taux_vente": "2,84030 "
+    },
+    {
+        "date": "05/09/2025",
+        "devise_complete": "1 RIYAL QATARI",
+        "taux_achat": "2,46250 ",
+        "taux_vente": "2,86190 "
+    },
+    {
+        "date": "05/09/2025",
+        "devise_complete": "1 DINAR BAHREINI",
+        "taux_achat": "23,8100 ",
+        "taux_vente": "27,6720 "
+    },
+    {
+        "date": "05/09/2025",
+        "devise_complete": "100 YENS JAPONAIS",
+        "taux_achat": "6,18130 ",
+        "taux_vente": "7,18370 "
+    },
+    {
+        "date": "05/09/2025",
+        "devise_complete": "1 RIYAL OMANI",
+        "taux_achat": "23,3160 ",
+        "taux_vente": "27,0960 "
+    },
+    {
+        "date": "05/08/2025",
+        "devise_complete": "1 EURO",
+        "taux_achat": "10,1152 ",
+        "taux_vente": "11,7554 "
+    },
+    {
+        "date": "05/08/2025",
+        "devise_complete": "1 DOLLAR U.S.A.",
+        "taux_achat": "8,95950 ",
+        "taux_vente": "10,4123 "
+    },
+    {
+        "date": "05/08/2025",
+        "devise_complete": "1 DOLLAR CANADIEN",
+        "taux_achat": "6,45960 ",
+        "taux_vente": "7,50700 "
+    },
+    {
+        "date": "05/08/2025",
+        "devise_complete": "1 LIVRE STERLING",
+        "taux_achat": "11,8970 ",
+        "taux_vente": "13,8270 "
+    },
+    {
+        "date": "05/08/2025",
+        "devise_complete": "1 LIVRE GIBRALTAR",
+        "taux_achat": "11,8970 ",
+        "taux_vente": "13,8270 "
+    },
+    {
+        "date": "05/08/2025",
+        "devise_complete": "1 FRANC SUISSE",
+        "taux_achat": "10,8270 ",
+        "taux_vente": "12,5830 "
+    },
+    {
+        "date": "05/08/2025",
+        "devise_complete": "1 RIYAL SAOUDIEN",
+        "taux_achat": "2,38860 ",
+        "taux_vente": "2,77600 "
+    },
+    {
+        "date": "05/08/2025",
+        "devise_complete": "1 DINAR KOWEITIEN",
+        "taux_achat": "29,2120 ",
+        "taux_vente": "33,9500 "
+    },
+    {
+        "date": "05/08/2025",
+        "devise_complete": "1 DIRHAM E.A.U.",
+        "taux_achat": "2,43940 ",
+        "taux_vente": "2,83500 "
+    },
+    {
+        "date": "05/08/2025",
+        "devise_complete": "1 RIYAL QATARI",
+        "taux_achat": "2,45780 ",
+        "taux_vente": "2,85640 "
+    },
+    {
+        "date": "05/08/2025",
+        "devise_complete": "1 DINAR BAHREINI",
+        "taux_achat": "23,7650 ",
+        "taux_vente": "27,6190 "
+    },
+    {
+        "date": "05/08/2025",
+        "devise_complete": "100 YENS JAPONAIS",
+        "taux_achat": "6,20240 ",
+        "taux_vente": "7,20820 "
+    },
+    {
+        "date": "05/08/2025",
+        "devise_complete": "1 RIYAL OMANI",
+        "taux_achat": "23,2710 ",
+        "taux_vente": "27,0450 "
+    },
+    {
+        "date": "05/07/2025",
+        "devise_complete": "1 EURO",
+        "taux_achat": "10,1376 ",
+        "taux_vente": "11,7816 "
+    },
+    {
+        "date": "05/07/2025",
+        "devise_complete": "1 DOLLAR U.S.A.",
+        "taux_achat": "8,92630 ",
+        "taux_vente": "10,3739 "
+    },
+    {
+        "date": "05/07/2025",
+        "devise_complete": "1 DOLLAR CANADIEN",
+        "taux_achat": "6,47400 ",
+        "taux_vente": "7,52380 "
+    },
+    {
+        "date": "05/07/2025",
+        "devise_complete": "1 LIVRE STERLING",
+        "taux_achat": "11,9160 ",
+        "taux_vente": "13,8480 "
+    },
+    {
+        "date": "05/07/2025",
+        "devise_complete": "1 LIVRE GIBRALTAR",
+        "taux_achat": "11,9160 ",
+        "taux_vente": "13,8480 "
+    },
+    {
+        "date": "05/07/2025",
+        "devise_complete": "1 FRANC SUISSE",
+        "taux_achat": "10,8170 ",
+        "taux_vente": "12,5710 "
+    },
+    {
+        "date": "05/07/2025",
+        "devise_complete": "1 RIYAL SAOUDIEN",
+        "taux_achat": "2,37970 ",
+        "taux_vente": "2,76550 "
+    },
+    {
+        "date": "05/07/2025",
+        "devise_complete": "1 DINAR KOWEITIEN",
+        "taux_achat": "29,1140 ",
+        "taux_vente": "33,8360 "
+    },
+    {
+        "date": "05/07/2025",
+        "devise_complete": "1 DIRHAM E.A.U.",
+        "taux_achat": "2,43030 ",
+        "taux_vente": "2,82430 "
+    },
+    {
+        "date": "05/07/2025",
+        "devise_complete": "1 RIYAL QATARI",
+        "taux_achat": "2,44880 ",
+        "taux_vente": "2,84580 "
+    },
+    {
+        "date": "05/07/2025",
+        "devise_complete": "1 DINAR BAHREINI",
+        "taux_achat": "23,6770 ",
+        "taux_vente": "27,5170 "
+    },
+    {
+        "date": "05/07/2025",
+        "devise_complete": "100 YENS JAPONAIS",
+        "taux_achat": "6,23390 ",
+        "taux_vente": "7,24490 "
+    },
+    {
+        "date": "05/07/2025",
+        "devise_complete": "1 RIYAL OMANI",
+        "taux_achat": "23,1850 ",
+        "taux_vente": "26,9450 "
+    },
+    {
+        "date": "05/06/2025",
+        "devise_complete": "1 EURO",
+        "taux_achat": "10,1327 ",
+        "taux_vente": "11,7759 "
+    },
+    {
+        "date": "05/06/2025",
+        "devise_complete": "1 DOLLAR U.S.A.",
+        "taux_achat": "8,93460 ",
+        "taux_vente": "10,3834 "
+    },
+    {
+        "date": "05/06/2025",
+        "devise_complete": "1 DOLLAR CANADIEN",
+        "taux_achat": "6,46870 ",
+        "taux_vente": "7,51770 "
+    },
+    {
+        "date": "05/06/2025",
+        "devise_complete": "1 LIVRE STERLING",
+        "taux_achat": "11,9060 ",
+        "taux_vente": "13,8360 "
+    },
+    {
+        "date": "05/06/2025",
+        "devise_complete": "1 LIVRE GIBRALTAR",
+        "taux_achat": "11,9060 ",
+        "taux_vente": "13,8360 "
+    },
+    {
+        "date": "05/06/2025",
+        "devise_complete": "1 FRANC SUISSE",
+        "taux_achat": "10,8590 ",
+        "taux_vente": "12,6190 "
+    },
+    {
+        "date": "05/06/2025",
+        "devise_complete": "1 RIYAL SAOUDIEN",
+        "taux_achat": "2,38210 ",
+        "taux_vente": "2,76830 "
+    },
+    {
+        "date": "05/06/2025",
+        "devise_complete": "1 DINAR KOWEITIEN",
+        "taux_achat": "29,1410 ",
+        "taux_vente": "33,8670 "
+    },
+    {
+        "date": "05/06/2025",
+        "devise_complete": "1 DIRHAM E.A.U.",
+        "taux_achat": "2,43250 ",
+        "taux_vente": "2,82690 "
+    },
+    {
+        "date": "05/06/2025",
+        "devise_complete": "1 RIYAL QATARI",
+        "taux_achat": "2,45090 ",
+        "taux_vente": "2,84830 "
+    },
+    {
+        "date": "05/06/2025",
+        "devise_complete": "1 DINAR BAHREINI",
+        "taux_achat": "23,6990 ",
+        "taux_vente": "27,5430 "
+    },
+    {
+        "date": "05/06/2025",
+        "devise_complete": "100 YENS JAPONAIS",
+        "taux_achat": "6,23710 ",
+        "taux_vente": "7,24850 "
+    },
+    {
+        "date": "05/06/2025",
+        "devise_complete": "1 RIYAL OMANI",
+        "taux_achat": "23,2060 ",
+        "taux_vente": "26,9700 "
+    },
+    {
+        "date": "05/05/2025",
+        "devise_complete": "1 EURO",
+        "taux_achat": "10,1259 ",
+        "taux_vente": "11,7679 "
+    },
+    {
+        "date": "05/05/2025",
+        "devise_complete": "1 DOLLAR U.S.A.",
+        "taux_achat": "8,94430 ",
+        "taux_vente": "10,3947 "
+    },
+    {
+        "date": "05/05/2025",
+        "devise_complete": "1 DOLLAR CANADIEN",
+        "taux_achat": "6,47620 ",
+        "taux_vente": "7,52640 "
+    },
+    {
+        "date": "05/05/2025",
+        "devise_complete": "1 LIVRE STERLING",
+        "taux_achat": "11,8830 ",
+        "taux_vente": "13,8090 "
+    },
+    {
+        "date": "05/05/2025",
+        "devise_complete": "1 LIVRE GIBRALTAR",
+        "taux_achat": "11,8830 ",
+        "taux_vente": "13,8090 "
+    },
+    {
+        "date": "05/05/2025",
+        "devise_complete": "1 FRANC SUISSE",
+        "taux_achat": "10,8150 ",
+        "taux_vente": "12,5690 "
+    },
+    {
+        "date": "05/05/2025",
+        "devise_complete": "1 RIYAL SAOUDIEN",
+        "taux_achat": "2,38490 ",
+        "taux_vente": "2,77170 "
+    },
+    {
+        "date": "05/05/2025",
+        "devise_complete": "1 DINAR KOWEITIEN",
+        "taux_achat": "29,1630 ",
+        "taux_vente": "33,8930 "
+    },
+    {
+        "date": "05/05/2025",
+        "devise_complete": "1 DIRHAM E.A.U.",
+        "taux_achat": "2,43520 ",
+        "taux_vente": "2,83000 "
+    },
+    {
+        "date": "05/05/2025",
+        "devise_complete": "1 RIYAL QATARI",
+        "taux_achat": "2,45370 ",
+        "taux_vente": "2,85170 "
+    },
+    {
+        "date": "05/05/2025",
+        "devise_complete": "1 DINAR BAHREINI",
+        "taux_achat": "23,7250 ",
+        "taux_vente": "27,5730 "
+    },
+    {
+        "date": "05/05/2025",
+        "devise_complete": "100 YENS JAPONAIS",
+        "taux_achat": "6,19580 ",
+        "taux_vente": "7,20060 "
+    },
+    {
+        "date": "05/05/2025",
+        "devise_complete": "1 RIYAL OMANI",
+        "taux_achat": "23,2320 ",
+        "taux_vente": "27,0000 "
+    },
+    {
+        "date": "05/04/2025",
+        "devise_complete": "1 EURO",
+        "taux_achat": null,
+        "taux_vente": null
+    },
+    {
+        "date": "05/04/2025",
+        "devise_complete": "1 DOLLAR U.S.A.",
+        "taux_achat": null,
+        "taux_vente": null
+    },
+    {
+        "date": "05/04/2025",
+        "devise_complete": "1 DOLLAR CANADIEN",
+        "taux_achat": null,
+        "taux_vente": null
+    },
+    {
+        "date": "05/04/2025",
+        "devise_complete": "1 LIVRE STERLING",
+        "taux_achat": null,
+        "taux_vente": null
+    },
+    {
+        "date": "05/04/2025",
+        "devise_complete": "1 LIVRE GIBRALTAR",
+        "taux_achat": null,
+        "taux_vente": null
+    },
+    {
+        "date": "05/04/2025",
+        "devise_complete": "1 FRANC SUISSE",
+        "taux_achat": null,
+        "taux_vente": null
+    },
+    {
+        "date": "05/04/2025",
+        "devise_complete": "1 RIYAL SAOUDIEN",
+        "taux_achat": null,
+        "taux_vente": null
+    },
+    {
+        "date": "05/04/2025",
+        "devise_complete": "1 DINAR KOWEITIEN",
+        "taux_achat": null,
+        "taux_vente": null
+    },
+    {
+        "date": "05/04/2025",
+        "devise_complete": "1 DIRHAM E.A.U.",
+        "taux_achat": null,
+        "taux_vente": null
+    },
+    {
+        "date": "05/04/2025",
+        "devise_complete": "1 RIYAL QATARI",
+        "taux_achat": null,
+        "taux_vente": null
+    },
+    {
+        "date": "05/04/2025",
+        "devise_complete": "1 DINAR BAHREINI",
+        "taux_achat": null,
+        "taux_vente": null
+    },
+    {
+        "date": "05/04/2025",
+        "devise_complete": "100 YENS JAPONAIS",
+        "taux_achat": null,
+        "taux_vente": null
+    },
+    {
+        "date": "05/04/2025",
+        "devise_complete": "1 RIYAL OMANI",
+        "taux_achat": null,
+        "taux_vente": null
+    },
+    {
+        "date": "05/03/2025",
+        "devise_complete": "1 EURO",
+        "taux_achat": null,
+        "taux_vente": null
+    },
+    {
+        "date": "05/03/2025",
+        "devise_complete": "1 DOLLAR U.S.A.",
+        "taux_achat": null,
+        "taux_vente": null
+    },
+    {
+        "date": "05/03/2025",
+        "devise_complete": "1 DOLLAR CANADIEN",
+        "taux_achat": null,
+        "taux_vente": null
+    },
+    {
+        "date": "05/03/2025",
+        "devise_complete": "1 LIVRE STERLING",
+        "taux_achat": null,
+        "taux_vente": null
+    },
+    {
+        "date": "05/03/2025",
+        "devise_complete": "1 LIVRE GIBRALTAR",
+        "taux_achat": null,
+        "taux_vente": null
+    },
+    {
+        "date": "05/03/2025",
+        "devise_complete": "1 FRANC SUISSE",
+        "taux_achat": null,
+        "taux_vente": null
+    },
+    {
+        "date": "05/03/2025",
+        "devise_complete": "1 RIYAL SAOUDIEN",
+        "taux_achat": null,
+        "taux_vente": null
+    },
+    {
+        "date": "05/03/2025",
+        "devise_complete": "1 DINAR KOWEITIEN",
+        "taux_achat": null,
+        "taux_vente": null
+    },
+    {
+        "date": "05/03/2025",
+        "devise_complete": "1 DIRHAM E.A.U.",
+        "taux_achat": null,
+        "taux_vente": null
+    },
+    {
+        "date": "05/03/2025",
+        "devise_complete": "1 RIYAL QATARI",
+        "taux_achat": null,
+        "taux_vente": null
+    },
+    {
+        "date": "05/03/2025",
+        "devise_complete": "1 DINAR BAHREINI",
+        "taux_achat": null,
+        "taux_vente": null
+    },
+    {
+        "date": "05/03/2025",
+        "devise_complete": "100 YENS JAPONAIS",
+        "taux_achat": null,
+        "taux_vente": null
+    },
+    {
+        "date": "05/03/2025",
+        "devise_complete": "1 RIYAL OMANI",
+        "taux_achat": null,
+        "taux_vente": null
+    },
+    {
+        "date": "05/02/2025",
+        "devise_complete": "1 EURO",
+        "taux_achat": "10,1246 ",
+        "taux_vente": "11,7664 "
+    },
+    {
+        "date": "05/02/2025",
+        "devise_complete": "1 DOLLAR U.S.A.",
+        "taux_achat": "8,94480 ",
+        "taux_vente": "10,3952 "
+    },
+    {
+        "date": "05/02/2025",
+        "devise_complete": "1 DOLLAR CANADIEN",
+        "taux_achat": "6,47470 ",
+        "taux_vente": "7,52470 "
+    },
+    {
+        "date": "05/02/2025",
+        "devise_complete": "1 LIVRE STERLING",
+        "taux_achat": "11,9020 ",
+        "taux_vente": "13,8320 "
+    },
+    {
+        "date": "05/02/2025",
+        "devise_complete": "1 LIVRE GIBRALTAR",
+        "taux_achat": "11,9020 ",
+        "taux_vente": "13,8320 "
+    },
+    {
+        "date": "05/02/2025",
+        "devise_complete": "1 FRANC SUISSE",
+        "taux_achat": "10,7980 ",
+        "taux_vente": "12,5480 "
+    },
+    {
+        "date": "05/02/2025",
+        "devise_complete": "1 RIYAL SAOUDIEN",
+        "taux_achat": "2,38510 ",
+        "taux_vente": "2,77190 "
+    },
+    {
+        "date": "05/02/2025",
+        "devise_complete": "1 DINAR KOWEITIEN",
+        "taux_achat": "29,1550 ",
+        "taux_vente": "33,8830 "
+    },
+    {
+        "date": "05/02/2025",
+        "devise_complete": "1 DIRHAM E.A.U.",
+        "taux_achat": "2,43520 ",
+        "taux_vente": "2,83020 "
+    },
+    {
+        "date": "05/02/2025",
+        "devise_complete": "1 RIYAL QATARI",
+        "taux_achat": "2,45390 ",
+        "taux_vente": "2,85190 "
+    },
+    {
+        "date": "05/02/2025",
+        "devise_complete": "1 DINAR BAHREINI",
+        "taux_achat": "23,7260 ",
+        "taux_vente": "27,5740 "
+    },
+    {
+        "date": "05/02/2025",
+        "devise_complete": "100 YENS JAPONAIS",
+        "taux_achat": "6,15950 ",
+        "taux_vente": "7,15830 "
+    },
+    {
+        "date": "05/02/2025",
+        "devise_complete": "1 RIYAL OMANI",
+        "taux_achat": "23,2330 ",
+        "taux_vente": "27,0010 "
+    },
+    {
+        "date": "05/01/2025",
+        "devise_complete": "1 EURO",
+        "taux_achat": null,
+        "taux_vente": null
+    },
+    {
+        "date": "05/01/2025",
+        "devise_complete": "1 DOLLAR U.S.A.",
+        "taux_achat": null,
+        "taux_vente": null
+    },
+    {
+        "date": "05/01/2025",
+        "devise_complete": "1 DOLLAR CANADIEN",
+        "taux_achat": null,
+        "taux_vente": null
+    },
+    {
+        "date": "05/01/2025",
+        "devise_complete": "1 LIVRE STERLING",
+        "taux_achat": null,
+        "taux_vente": null
+    },
+    {
+        "date": "05/01/2025",
+        "devise_complete": "1 LIVRE GIBRALTAR",
+        "taux_achat": null,
+        "taux_vente": null
+    },
+    {
+        "date": "05/01/2025",
+        "devise_complete": "1 FRANC SUISSE",
+        "taux_achat": null,
+        "taux_vente": null
+    },
+    {
+        "date": "05/01/2025",
+        "devise_complete": "1 RIYAL SAOUDIEN",
+        "taux_achat": null,
+        "taux_vente": null
+    },
+    {
+        "date": "05/01/2025",
+        "devise_complete": "1 DINAR KOWEITIEN",
+        "taux_achat": null,
+        "taux_vente": null
+    },
+    {
+        "date": "05/01/2025",
+        "devise_complete": "1 DIRHAM E.A.U.",
+        "taux_achat": null,
+        "taux_vente": null
+    },
+    {
+        "date": "05/01/2025",
+        "devise_complete": "1 RIYAL QATARI",
+        "taux_achat": null,
+        "taux_vente": null
+    },
+    {
+        "date": "05/01/2025",
+        "devise_complete": "1 DINAR BAHREINI",
+        "taux_achat": null,
+        "taux_vente": null
+    },
+    {
+        "date": "05/01/2025",
+        "devise_complete": "100 YENS JAPONAIS",
+        "taux_achat": null,
+        "taux_vente": null
+    },
+    {
+        "date": "05/01/2025",
+        "devise_complete": "1 RIYAL OMANI",
+        "taux_achat": null,
+        "taux_vente": null
+    },
+    {
+        "date": "04/30/2025",
+        "devise_complete": "1 EURO",
+        "taux_achat": "10,1454 ",
+        "taux_vente": "11,7906 "
+    },
+    {
+        "date": "04/30/2025",
+        "devise_complete": "1 DOLLAR U.S.A.",
+        "taux_achat": "8,91660 ",
+        "taux_vente": "10,3626 "
+    },
+    {
+        "date": "04/30/2025",
+        "devise_complete": "1 DOLLAR CANADIEN",
+        "taux_achat": "6,44550 ",
+        "taux_vente": "7,49070 "
+    },
+    {
+        "date": "04/30/2025",
+        "devise_complete": "1 LIVRE STERLING",
+        "taux_achat": "11,9380 ",
+        "taux_vente": "13,8740 "
+    },
+    {
+        "date": "04/30/2025",
+        "devise_complete": "1 LIVRE GIBRALTAR",
+        "taux_achat": "11,9380 ",
+        "taux_vente": "13,8740 "
+    },
+    {
+        "date": "04/30/2025",
+        "devise_complete": "1 FRANC SUISSE",
+        "taux_achat": "10,8030 ",
+        "taux_vente": "12,5550 "
+    },
+    {
+        "date": "04/30/2025",
+        "devise_complete": "1 RIYAL SAOUDIEN",
+        "taux_achat": "2,37730 ",
+        "taux_vente": "2,76270 "
+    },
+    {
+        "date": "04/30/2025",
+        "devise_complete": "1 DINAR KOWEITIEN",
+        "taux_achat": "29,1010 ",
+        "taux_vente": "33,8210 "
+    },
+    {
+        "date": "04/30/2025",
+        "devise_complete": "1 DIRHAM E.A.U.",
+        "taux_achat": "2,42770 ",
+        "taux_vente": "2,82130 "
+    },
+    {
+        "date": "04/30/2025",
+        "devise_complete": "1 RIYAL QATARI",
+        "taux_achat": "2,44610 ",
+        "taux_vente": "2,84270 "
+    },
+    {
+        "date": "04/30/2025",
+        "devise_complete": "1 DINAR BAHREINI",
+        "taux_achat": "23,6510 ",
+        "taux_vente": "27,4870 "
+    },
+    {
+        "date": "04/30/2025",
+        "devise_complete": "100 YENS JAPONAIS",
+        "taux_achat": "6,24500 ",
+        "taux_vente": "7,25780 "
+    },
+    {
+        "date": "04/30/2025",
+        "devise_complete": "1 RIYAL OMANI",
+        "taux_achat": "23,1600 ",
+        "taux_vente": "26,9160 "
+    },
+    {
+        "date": "04/29/2025",
+        "devise_complete": "1 EURO",
+        "taux_achat": "10,1551 ",
+        "taux_vente": "11,8019 "
+    },
+    {
+        "date": "04/29/2025",
+        "devise_complete": "1 DOLLAR U.S.A.",
+        "taux_achat": "8,90170 ",
+        "taux_vente": "10,3453 "
+    },
+    {
+        "date": "04/29/2025",
+        "devise_complete": "1 DOLLAR CANADIEN",
+        "taux_achat": "6,44070 ",
+        "taux_vente": "7,48510 "
+    },
+    {
+        "date": "04/29/2025",
+        "devise_complete": "1 LIVRE STERLING",
+        "taux_achat": "11,9440 ",
+        "taux_vente": "13,8800 "
+    },
+    {
+        "date": "04/29/2025",
+        "devise_complete": "1 LIVRE GIBRALTAR",
+        "taux_achat": "11,9440 ",
+        "taux_vente": "13,8800 "
+    },
+    {
+        "date": "04/29/2025",
+        "devise_complete": "1 FRANC SUISSE",
+        "taux_achat": "10,8180 ",
+        "taux_vente": "12,5720 "
+    },
+    {
+        "date": "04/29/2025",
+        "devise_complete": "1 RIYAL SAOUDIEN",
+        "taux_achat": "2,37300 ",
+        "taux_vente": "2,75780 "
+    },
+    {
+        "date": "04/29/2025",
+        "devise_complete": "1 DINAR KOWEITIEN",
+        "taux_achat": "29,0570 ",
+        "taux_vente": "33,7690 "
+    },
+    {
+        "date": "04/29/2025",
+        "devise_complete": "1 DIRHAM E.A.U.",
+        "taux_achat": "2,42350 ",
+        "taux_vente": "2,81650 "
+    },
+    {
+        "date": "04/29/2025",
+        "devise_complete": "1 RIYAL QATARI",
+        "taux_achat": "2,44200 ",
+        "taux_vente": "2,83800 "
+    },
+    {
+        "date": "04/29/2025",
+        "devise_complete": "1 DINAR BAHREINI",
+        "taux_achat": "23,6120 ",
+        "taux_vente": "27,4400 "
+    },
+    {
+        "date": "04/29/2025",
+        "devise_complete": "100 YENS JAPONAIS",
+        "taux_achat": "6,25160 ",
+        "taux_vente": "7,26540 "
+    },
+    {
+        "date": "04/29/2025",
+        "devise_complete": "1 RIYAL OMANI",
+        "taux_achat": "23,1210 ",
+        "taux_vente": "26,8710 "
+    },
+    {
+        "date": "04/28/2025",
+        "devise_complete": "1 EURO",
+        "taux_achat": "10,1362 ",
+        "taux_vente": "11,7798 "
+    },
+    {
+        "date": "04/28/2025",
+        "devise_complete": "1 DOLLAR U.S.A.",
+        "taux_achat": "8,92980 ",
+        "taux_vente": "10,3778 "
+    },
+    {
+        "date": "04/28/2025",
+        "devise_complete": "1 DOLLAR CANADIEN",
+        "taux_achat": "6,43540 ",
+        "taux_vente": "7,47900 "
+    },
+    {
+        "date": "04/28/2025",
+        "devise_complete": "1 LIVRE STERLING",
+        "taux_achat": "11,8780 ",
+        "taux_vente": "13,8040 "
+    },
+    {
+        "date": "04/28/2025",
+        "devise_complete": "1 LIVRE GIBRALTAR",
+        "taux_achat": "11,8780 ",
+        "taux_vente": "13,8040 "
+    },
+    {
+        "date": "04/28/2025",
+        "devise_complete": "1 FRANC SUISSE",
+        "taux_achat": "10,7510 ",
+        "taux_vente": "12,4950 "
+    },
+    {
+        "date": "04/28/2025",
+        "devise_complete": "1 RIYAL SAOUDIEN",
+        "taux_achat": "2,38040 ",
+        "taux_vente": "2,76640 "
+    },
+    {
+        "date": "04/28/2025",
+        "devise_complete": "1 DINAR KOWEITIEN",
+        "taux_achat": "29,1110 ",
+        "taux_vente": "33,8310 "
+    },
+    {
+        "date": "04/28/2025",
+        "devise_complete": "1 DIRHAM E.A.U.",
+        "taux_achat": "2,43120 ",
+        "taux_vente": "2,82540 "
+    },
+    {
+        "date": "04/28/2025",
+        "devise_complete": "1 RIYAL QATARI",
+        "taux_achat": "2,45000 ",
+        "taux_vente": "2,84740 "
+    },
+    {
+        "date": "04/28/2025",
+        "devise_complete": "1 DINAR BAHREINI",
+        "taux_achat": "23,6930 ",
+        "taux_vente": "27,5350 "
+    },
+    {
+        "date": "04/28/2025",
+        "devise_complete": "100 YENS JAPONAIS",
+        "taux_achat": "6,21240 ",
+        "taux_vente": "7,21980 "
+    },
+    {
+        "date": "04/28/2025",
+        "devise_complete": "1 RIYAL OMANI",
+        "taux_achat": "23,1940 ",
+        "taux_vente": "26,9560 "
+    },
+    {
+        "date": "04/27/2025",
+        "devise_complete": "1 EURO",
+        "taux_achat": null,
+        "taux_vente": null
+    },
+    {
+        "date": "04/27/2025",
+        "devise_complete": "1 DOLLAR U.S.A.",
+        "taux_achat": null,
+        "taux_vente": null
+    },
+    {
+        "date": "04/27/2025",
+        "devise_complete": "1 DOLLAR CANADIEN",
+        "taux_achat": null,
+        "taux_vente": null
+    },
+    {
+        "date": "04/27/2025",
+        "devise_complete": "1 LIVRE STERLING",
+        "taux_achat": null,
+        "taux_vente": null
+    },
+    {
+        "date": "04/27/2025",
+        "devise_complete": "1 LIVRE GIBRALTAR",
+        "taux_achat": null,
+        "taux_vente": null
+    },
+    {
+        "date": "04/27/2025",
+        "devise_complete": "1 FRANC SUISSE",
+        "taux_achat": null,
+        "taux_vente": null
+    },
+    {
+        "date": "04/27/2025",
+        "devise_complete": "1 RIYAL SAOUDIEN",
+        "taux_achat": null,
+        "taux_vente": null
+    },
+    {
+        "date": "04/27/2025",
+        "devise_complete": "1 DINAR KOWEITIEN",
+        "taux_achat": null,
+        "taux_vente": null
+    },
+    {
+        "date": "04/27/2025",
+        "devise_complete": "1 DIRHAM E.A.U.",
+        "taux_achat": null,
+        "taux_vente": null
+    },
+    {
+        "date": "04/27/2025",
+        "devise_complete": "1 RIYAL QATARI",
+        "taux_achat": null,
+        "taux_vente": null
+    },
+    {
+        "date": "04/27/2025",
+        "devise_complete": "1 DINAR BAHREINI",
+        "taux_achat": null,
+        "taux_vente": null
+    },
+    {
+        "date": "04/27/2025",
+        "devise_complete": "100 YENS JAPONAIS",
+        "taux_achat": null,
+        "taux_vente": null
+    },
+    {
+        "date": "04/27/2025",
+        "devise_complete": "1 RIYAL OMANI",
+        "taux_achat": null,
+        "taux_vente": null
+    },
+    {
+        "date": "04/26/2025",
+        "devise_complete": "1 EURO",
+        "taux_achat": null,
+        "taux_vente": null
+    },
+    {
+        "date": "04/26/2025",
+        "devise_complete": "1 DOLLAR U.S.A.",
+        "taux_achat": null,
+        "taux_vente": null
+    },
+    {
+        "date": "04/26/2025",
+        "devise_complete": "1 DOLLAR CANADIEN",
+        "taux_achat": null,
+        "taux_vente": null
+    },
+    {
+        "date": "04/26/2025",
+        "devise_complete": "1 LIVRE STERLING",
+        "taux_achat": null,
+        "taux_vente": null
+    },
+    {
+        "date": "04/26/2025",
+        "devise_complete": "1 LIVRE GIBRALTAR",
+        "taux_achat": null,
+        "taux_vente": null
+    },
+    {
+        "date": "04/26/2025",
+        "devise_complete": "1 FRANC SUISSE",
+        "taux_achat": null,
+        "taux_vente": null
+    },
+    {
+        "date": "04/26/2025",
+        "devise_complete": "1 RIYAL SAOUDIEN",
+        "taux_achat": null,
+        "taux_vente": null
+    },
+    {
+        "date": "04/26/2025",
+        "devise_complete": "1 DINAR KOWEITIEN",
+        "taux_achat": null,
+        "taux_vente": null
+    },
+    {
+        "date": "04/26/2025",
+        "devise_complete": "1 DIRHAM E.A.U.",
+        "taux_achat": null,
+        "taux_vente": null
+    },
+    {
+        "date": "04/26/2025",
+        "devise_complete": "1 RIYAL QATARI",
+        "taux_achat": null,
+        "taux_vente": null
+    },
+    {
+        "date": "04/26/2025",
+        "devise_complete": "1 DINAR BAHREINI",
+        "taux_achat": null,
+        "taux_vente": null
+    },
+    {
+        "date": "04/26/2025",
+        "devise_complete": "100 YENS JAPONAIS",
+        "taux_achat": null,
+        "taux_vente": null
+    },
+    {
+        "date": "04/26/2025",
+        "devise_complete": "1 RIYAL OMANI",
+        "taux_achat": null,
+        "taux_vente": null
+    },
+    {
+        "date": "04/25/2025",
+        "devise_complete": "1 EURO",
+        "taux_achat": "10,1376 ",
+        "taux_vente": "11,7816 "
+    },
+    {
+        "date": "04/25/2025",
+        "devise_complete": "1 DOLLAR U.S.A.",
+        "taux_achat": "8,92630 ",
+        "taux_vente": "10,3739 "
+    },
+    {
+        "date": "04/25/2025",
+        "devise_complete": "1 DOLLAR CANADIEN",
+        "taux_achat": "6,43290 ",
+        "taux_vente": "7,47610 "
+    },
+    {
+        "date": "04/25/2025",
+        "devise_complete": "1 LIVRE STERLING",
+        "taux_achat": "11,8740 ",
+        "taux_vente": "13,8000 "
+    },
+    {
+        "date": "04/25/2025",
+        "devise_complete": "1 LIVRE GIBRALTAR",
+        "taux_achat": "11,8740 ",
+        "taux_vente": "13,8000 "
+    },
+    {
+        "date": "04/25/2025",
+        "devise_complete": "1 FRANC SUISSE",
+        "taux_achat": "10,7490 ",
+        "taux_vente": "12,4930 "
+    },
+    {
+        "date": "04/25/2025",
+        "devise_complete": "1 RIYAL SAOUDIEN",
+        "taux_achat": "2,37970 ",
+        "taux_vente": "2,76550 "
+    },
+    {
+        "date": "04/25/2025",
+        "devise_complete": "1 DINAR KOWEITIEN",
+        "taux_achat": "29,1040 ",
+        "taux_vente": "33,8240 "
+    },
+    {
+        "date": "04/25/2025",
+        "devise_complete": "1 DIRHAM E.A.U.",
+        "taux_achat": "2,43030 ",
+        "taux_vente": "2,82430 "
+    },
+    {
+        "date": "04/25/2025",
+        "devise_complete": "1 RIYAL QATARI",
+        "taux_achat": "2,44900 ",
+        "taux_vente": "2,84620 "
+    },
+    {
+        "date": "04/25/2025",
+        "devise_complete": "1 DINAR BAHREINI",
+        "taux_achat": "23,6770 ",
+        "taux_vente": "27,5170 "
+    },
+    {
+        "date": "04/25/2025",
+        "devise_complete": "100 YENS JAPONAIS",
+        "taux_achat": "6,22480 ",
+        "taux_vente": "7,23420 "
+    },
+    {
+        "date": "04/25/2025",
+        "devise_complete": "1 RIYAL OMANI",
+        "taux_achat": "23,1800 ",
+        "taux_vente": "26,9380 "
+    },
+    {
+        "date": "04/24/2025",
+        "devise_complete": "1 EURO",
+        "taux_achat": "10,1435 ",
+        "taux_vente": "11,7883 "
+    },
+    {
+        "date": "04/24/2025",
+        "devise_complete": "1 DOLLAR U.S.A.",
+        "taux_achat": "8,91810 ",
+        "taux_vente": "10,3643 "
+    },
+    {
+        "date": "04/24/2025",
+        "devise_complete": "1 DOLLAR CANADIEN",
+        "taux_achat": "6,44050 ",
+        "taux_vente": "7,48490 "
+    },
+    {
+        "date": "04/24/2025",
+        "devise_complete": "1 LIVRE STERLING",
+        "taux_achat": "11,8510 ",
+        "taux_vente": "13,7730 "
+    },
+    {
+        "date": "04/24/2025",
+        "devise_complete": "1 LIVRE GIBRALTAR",
+        "taux_achat": "11,8510 ",
+        "taux_vente": "13,7730 "
+    },
+    {
+        "date": "04/24/2025",
+        "devise_complete": "1 FRANC SUISSE",
+        "taux_achat": "10,7970 ",
+        "taux_vente": "12,5470 "
+    },
+    {
+        "date": "04/24/2025",
+        "devise_complete": "1 RIYAL SAOUDIEN",
+        "taux_achat": "2,37740 ",
+        "taux_vente": "2,76300 "
+    },
+    {
+        "date": "04/24/2025",
+        "devise_complete": "1 DINAR KOWEITIEN",
+        "taux_achat": "29,0970 ",
+        "taux_vente": "33,8150 "
+    },
+    {
+        "date": "04/24/2025",
+        "devise_complete": "1 DIRHAM E.A.U.",
+        "taux_achat": "2,42800 ",
+        "taux_vente": "2,82180 "
+    },
+    {
+        "date": "04/24/2025",
+        "devise_complete": "1 RIYAL QATARI",
+        "taux_achat": "2,44640 ",
+        "taux_vente": "2,84320 "
+    },
+    {
+        "date": "04/24/2025",
+        "devise_complete": "1 DINAR BAHREINI",
+        "taux_achat": "23,6560 ",
+        "taux_vente": "27,4920 "
+    },
+    {
+        "date": "04/24/2025",
+        "devise_complete": "100 YENS JAPONAIS",
+        "taux_achat": "6,25310 ",
+        "taux_vente": "7,26710 "
+    },
+    {
+        "date": "04/24/2025",
+        "devise_complete": "1 RIYAL OMANI",
+        "taux_achat": "23,1580 ",
+        "taux_vente": "26,9140 "
+    },
+    {
+        "date": "04/23/2025",
+        "devise_complete": "1 EURO",
+        "taux_achat": "10,1527 ",
+        "taux_vente": "11,7991 "
+    },
+    {
+        "date": "04/23/2025",
+        "devise_complete": "1 DOLLAR U.S.A.",
+        "taux_achat": "8,90510 ",
+        "taux_vente": "10,3491 "
+    },
+    {
+        "date": "04/23/2025",
+        "devise_complete": "1 DOLLAR CANADIEN",
+        "taux_achat": "6,44600 ",
+        "taux_vente": "7,49120 "
+    },
+    {
+        "date": "04/23/2025",
+        "devise_complete": "1 LIVRE STERLING",
+        "taux_achat": "11,8640 ",
+        "taux_vente": "13,7880 "
+    },
+    {
+        "date": "04/23/2025",
+        "devise_complete": "1 LIVRE GIBRALTAR",
+        "taux_achat": "11,8640 ",
+        "taux_vente": "13,7880 "
+    },
+    {
+        "date": "04/23/2025",
+        "devise_complete": "1 FRANC SUISSE",
+        "taux_achat": "10,8430 ",
+        "taux_vente": "12,6010 "
+    },
+    {
+        "date": "04/23/2025",
+        "devise_complete": "1 RIYAL SAOUDIEN",
+        "taux_achat": "2,37400 ",
+        "taux_vente": "2,75900 "
+    },
+    {
+        "date": "04/23/2025",
+        "devise_complete": "1 DINAR KOWEITIEN",
+        "taux_achat": "29,0830 ",
+        "taux_vente": "33,7990 "
+    },
+    {
+        "date": "04/23/2025",
+        "devise_complete": "1 DIRHAM E.A.U.",
+        "taux_achat": "2,42440 ",
+        "taux_vente": "2,81760 "
+    },
+    {
+        "date": "04/23/2025",
+        "devise_complete": "1 RIYAL QATARI",
+        "taux_achat": "2,44270 ",
+        "taux_vente": "2,83890 "
+    },
+    {
+        "date": "04/23/2025",
+        "devise_complete": "1 DINAR BAHREINI",
+        "taux_achat": "23,6210 ",
+        "taux_vente": "27,4510 "
+    },
+    {
+        "date": "04/23/2025",
+        "devise_complete": "100 YENS JAPONAIS",
+        "taux_achat": "6,28940 ",
+        "taux_vente": "7,30920 "
+    },
+    {
+        "date": "04/23/2025",
+        "devise_complete": "1 RIYAL OMANI",
+        "taux_achat": "23,1310 ",
+        "taux_vente": "26,8810 "
+    },
+    {
+        "date": "04/22/2025",
+        "devise_complete": "1 EURO",
+        "taux_achat": "10,1880 ",
+        "taux_vente": "11,8400 "
+    },
+    {
+        "date": "04/22/2025",
+        "devise_complete": "1 DOLLAR U.S.A.",
+        "taux_achat": "8,85520 ",
+        "taux_vente": "10,2912 "
+    },
+    {
+        "date": "04/22/2025",
+        "devise_complete": "1 DOLLAR CANADIEN",
+        "taux_achat": "6,41360 ",
+        "taux_vente": "7,45360 "
+    },
+    {
+        "date": "04/22/2025",
+        "devise_complete": "1 LIVRE STERLING",
+        "taux_achat": "11,8580 ",
+        "taux_vente": "13,7800 "
+    },
+    {
+        "date": "04/22/2025",
+        "devise_complete": "1 LIVRE GIBRALTAR",
+        "taux_achat": "11,8580 ",
+        "taux_vente": "13,7800 "
+    },
+    {
+        "date": "04/22/2025",
+        "devise_complete": "1 FRANC SUISSE",
+        "taux_achat": "10,9210 ",
+        "taux_vente": "12,6930 "
+    },
+    {
+        "date": "04/22/2025",
+        "devise_complete": "1 RIYAL SAOUDIEN",
+        "taux_achat": "2,36060 ",
+        "taux_vente": "2,74340 "
+    },
+    {
+        "date": "04/22/2025",
+        "devise_complete": "1 DINAR KOWEITIEN",
+        "taux_achat": "28,9580 ",
+        "taux_vente": "33,6540 "
+    },
+    {
+        "date": "04/22/2025",
+        "devise_complete": "1 DIRHAM E.A.U.",
+        "taux_achat": "2,41090 ",
+        "taux_vente": "2,80190 "
+    },
+    {
+        "date": "04/22/2025",
+        "devise_complete": "1 RIYAL QATARI",
+        "taux_achat": "2,42910 ",
+        "taux_vente": "2,82310 "
+    },
+    {
+        "date": "04/22/2025",
+        "devise_complete": "1 DINAR BAHREINI",
+        "taux_achat": "23,4950 ",
+        "taux_vente": "27,3050 "
+    },
+    {
+        "date": "04/22/2025",
+        "devise_complete": "100 YENS JAPONAIS",
+        "taux_achat": "6,30900 ",
+        "taux_vente": "7,33200 "
+    },
+    {
+        "date": "04/22/2025",
+        "devise_complete": "1 RIYAL OMANI",
+        "taux_achat": "23,0010 ",
+        "taux_vente": "26,7310 "
+    },
+    {
+        "date": "04/21/2025",
+        "devise_complete": "1 EURO",
+        "taux_achat": "10,1964 ",
+        "taux_vente": "11,8498 "
+    },
+    {
+        "date": "04/21/2025",
+        "devise_complete": "1 DOLLAR U.S.A.",
+        "taux_achat": "8,84340 ",
+        "taux_vente": "10,2774 "
+    },
+    {
+        "date": "04/21/2025",
+        "devise_complete": "1 DOLLAR CANADIEN",
+        "taux_achat": "6,41050 ",
+        "taux_vente": "7,45010 "
+    },
+    {
+        "date": "04/21/2025",
+        "devise_complete": "1 LIVRE STERLING",
+        "taux_achat": "11,8490 ",
+        "taux_vente": "13,7710 "
+    },
+    {
+        "date": "04/21/2025",
+        "devise_complete": "1 LIVRE GIBRALTAR",
+        "taux_achat": "11,8490 ",
+        "taux_vente": "13,7710 "
+    },
+    {
+        "date": "04/21/2025",
+        "devise_complete": "1 FRANC SUISSE",
+        "taux_achat": "10,9530 ",
+        "taux_vente": "12,7290 "
+    },
+    {
+        "date": "04/21/2025",
+        "devise_complete": "1 RIYAL SAOUDIEN",
+        "taux_achat": "2,35700 ",
+        "taux_vente": "2,73920 "
+    },
+    {
+        "date": "04/21/2025",
+        "devise_complete": "1 DINAR KOWEITIEN",
+        "taux_achat": "28,9000 ",
+        "taux_vente": "33,5860 "
+    },
+    {
+        "date": "04/21/2025",
+        "devise_complete": "1 DIRHAM E.A.U.",
+        "taux_achat": "2,40770 ",
+        "taux_vente": "2,79810 "
+    },
+    {
+        "date": "04/21/2025",
+        "devise_complete": "1 RIYAL QATARI",
+        "taux_achat": "2,42590 ",
+        "taux_vente": "2,81930 "
+    },
+    {
+        "date": "04/21/2025",
+        "devise_complete": "1 DINAR BAHREINI",
+        "taux_achat": "23,4570 ",
+        "taux_vente": "27,2610 "
+    },
+    {
+        "date": "04/21/2025",
+        "devise_complete": "100 YENS JAPONAIS",
+        "taux_achat": "6,28880 ",
+        "taux_vente": "7,30860 "
+    },
+    {
+        "date": "04/21/2025",
+        "devise_complete": "1 RIYAL OMANI",
+        "taux_achat": "22,9640 ",
+        "taux_vente": "26,6880 "
+    },
+    {
+        "date": "04/20/2025",
+        "devise_complete": "1 EURO",
+        "taux_achat": null,
+        "taux_vente": null
+    },
+    {
+        "date": "04/20/2025",
+        "devise_complete": "1 DOLLAR U.S.A.",
+        "taux_achat": null,
+        "taux_vente": null
+    },
+    {
+        "date": "04/20/2025",
+        "devise_complete": "1 DOLLAR CANADIEN",
+        "taux_achat": null,
+        "taux_vente": null
+    },
+    {
+        "date": "04/20/2025",
+        "devise_complete": "1 LIVRE STERLING",
+        "taux_achat": null,
+        "taux_vente": null
+    },
+    {
+        "date": "04/20/2025",
+        "devise_complete": "1 LIVRE GIBRALTAR",
+        "taux_achat": null,
+        "taux_vente": null
+    },
+    {
+        "date": "04/20/2025",
+        "devise_complete": "1 FRANC SUISSE",
+        "taux_achat": null,
+        "taux_vente": null
+    },
+    {
+        "date": "04/20/2025",
+        "devise_complete": "1 RIYAL SAOUDIEN",
+        "taux_achat": null,
+        "taux_vente": null
+    },
+    {
+        "date": "04/20/2025",
+        "devise_complete": "1 DINAR KOWEITIEN",
+        "taux_achat": null,
+        "taux_vente": null
+    },
+    {
+        "date": "04/20/2025",
+        "devise_complete": "1 DIRHAM E.A.U.",
+        "taux_achat": null,
+        "taux_vente": null
+    },
+    {
+        "date": "04/20/2025",
+        "devise_complete": "1 RIYAL QATARI",
+        "taux_achat": null,
+        "taux_vente": null
+    },
+    {
+        "date": "04/20/2025",
+        "devise_complete": "1 DINAR BAHREINI",
+        "taux_achat": null,
+        "taux_vente": null
+    },
+    {
+        "date": "04/20/2025",
+        "devise_complete": "100 YENS JAPONAIS",
+        "taux_achat": null,
+        "taux_vente": null
+    },
+    {
+        "date": "04/20/2025",
+        "devise_complete": "1 RIYAL OMANI",
+        "taux_achat": null,
+        "taux_vente": null
+    },
+    {
+        "date": "04/19/2025",
+        "devise_complete": "1 EURO",
+        "taux_achat": null,
+        "taux_vente": null
+    },
+    {
+        "date": "04/19/2025",
+        "devise_complete": "1 DOLLAR U.S.A.",
+        "taux_achat": null,
+        "taux_vente": null
+    },
+    {
+        "date": "04/19/2025",
+        "devise_complete": "1 DOLLAR CANADIEN",
+        "taux_achat": null,
+        "taux_vente": null
+    },
+    {
+        "date": "04/19/2025",
+        "devise_complete": "1 LIVRE STERLING",
+        "taux_achat": null,
+        "taux_vente": null
+    },
+    {
+        "date": "04/19/2025",
+        "devise_complete": "1 LIVRE GIBRALTAR",
+        "taux_achat": null,
+        "taux_vente": null
+    },
+    {
+        "date": "04/19/2025",
+        "devise_complete": "1 FRANC SUISSE",
+        "taux_achat": null,
+        "taux_vente": null
+    },
+    {
+        "date": "04/19/2025",
+        "devise_complete": "1 RIYAL SAOUDIEN",
+        "taux_achat": null,
+        "taux_vente": null
+    },
+    {
+        "date": "04/19/2025",
+        "devise_complete": "1 DINAR KOWEITIEN",
+        "taux_achat": null,
+        "taux_vente": null
+    },
+    {
+        "date": "04/19/2025",
+        "devise_complete": "1 DIRHAM E.A.U.",
+        "taux_achat": null,
+        "taux_vente": null
+    },
+    {
+        "date": "04/19/2025",
+        "devise_complete": "1 RIYAL QATARI",
+        "taux_achat": null,
+        "taux_vente": null
+    },
+    {
+        "date": "04/19/2025",
+        "devise_complete": "1 DINAR BAHREINI",
+        "taux_achat": null,
+        "taux_vente": null
+    },
+    {
+        "date": "04/19/2025",
+        "devise_complete": "100 YENS JAPONAIS",
+        "taux_achat": null,
+        "taux_vente": null
+    },
+    {
+        "date": "04/19/2025",
+        "devise_complete": "1 RIYAL OMANI",
+        "taux_achat": null,
+        "taux_vente": null
+    },
+    {
+        "date": "04/18/2025",
+        "devise_complete": "1 EURO",
+        "taux_achat": "10,1440 ",
+        "taux_vente": "11,7890 "
+    },
+    {
+        "date": "04/18/2025",
+        "devise_complete": "1 DOLLAR U.S.A.",
+        "taux_achat": "8,91860 ",
+        "taux_vente": "10,3648 "
+    },
+    {
+        "date": "04/18/2025",
+        "devise_complete": "1 DOLLAR CANADIEN",
+        "taux_achat": "6,43620 ",
+        "taux_vente": "7,47980 "
+    },
+    {
+        "date": "04/18/2025",
+        "devise_complete": "1 LIVRE STERLING",
+        "taux_achat": "11,8410 ",
+        "taux_vente": "13,7610 "
+    },
+    {
+        "date": "04/18/2025",
+        "devise_complete": "1 LIVRE GIBRALTAR",
+        "taux_achat": "11,8410 ",
+        "taux_vente": "13,7610 "
+    },
+    {
+        "date": "04/18/2025",
+        "devise_complete": "1 FRANC SUISSE",
+        "taux_achat": "10,9030 ",
+        "taux_vente": "12,6710 "
+    },
+    {
+        "date": "04/18/2025",
+        "devise_complete": "1 RIYAL SAOUDIEN",
+        "taux_achat": "2,37690 ",
+        "taux_vente": "2,76230 "
+    },
+    {
+        "date": "04/18/2025",
+        "devise_complete": "1 DINAR KOWEITIEN",
+        "taux_achat": "29,0840 ",
+        "taux_vente": "33,8000 "
+    },
+    {
+        "date": "04/18/2025",
+        "devise_complete": "1 DIRHAM E.A.U.",
+        "taux_achat": "2,42810 ",
+        "taux_vente": "2,82190 "
+    },
+    {
+        "date": "04/18/2025",
+        "devise_complete": "1 RIYAL QATARI",
+        "taux_achat": "2,44660 ",
+        "taux_vente": "2,84340 "
+    },
+    {
+        "date": "04/18/2025",
+        "devise_complete": "1 DINAR BAHREINI",
+        "taux_achat": "23,6570 ",
+        "taux_vente": "27,4930 "
+    },
+    {
+        "date": "04/18/2025",
+        "devise_complete": "100 YENS JAPONAIS",
+        "taux_achat": "6,26440 ",
+        "taux_vente": "7,28020 "
+    },
+    {
+        "date": "04/18/2025",
+        "devise_complete": "1 RIYAL OMANI",
+        "taux_achat": "23,1650 ",
+        "taux_vente": "26,9210 "
+    },
+    {
+        "date": "04/17/2025",
+        "devise_complete": "1 EURO",
+        "taux_achat": "10,1389 ",
+        "taux_vente": "11,7831 "
+    },
+    {
+        "date": "04/17/2025",
+        "devise_complete": "1 DOLLAR U.S.A.",
+        "taux_achat": "8,92590 ",
+        "taux_vente": "10,3733 "
+    },
+    {
+        "date": "04/17/2025",
+        "devise_complete": "1 DOLLAR CANADIEN",
+        "taux_achat": "6,43020 ",
+        "taux_vente": "7,47300 "
+    },
+    {
+        "date": "04/17/2025",
+        "devise_complete": "1 LIVRE STERLING",
+        "taux_achat": "11,8100 ",
+        "taux_vente": "13,7260 "
+    },
+    {
+        "date": "04/17/2025",
+        "devise_complete": "1 LIVRE GIBRALTAR",
+        "taux_achat": "11,8100 ",
+        "taux_vente": "13,7260 "
+    },
+    {
+        "date": "04/17/2025",
+        "devise_complete": "1 FRANC SUISSE",
+        "taux_achat": "10,8890 ",
+        "taux_vente": "12,6550 "
+    },
+    {
+        "date": "04/17/2025",
+        "devise_complete": "1 RIYAL SAOUDIEN",
+        "taux_achat": "2,37870 ",
+        "taux_vente": "2,76450 "
+    },
+    {
+        "date": "04/17/2025",
+        "devise_complete": "1 DINAR KOWEITIEN",
+        "taux_achat": "29,1030 ",
+        "taux_vente": "33,8230 "
+    },
+    {
+        "date": "04/17/2025",
+        "devise_complete": "1 DIRHAM E.A.U.",
+        "taux_achat": "2,43020 ",
+        "taux_vente": "2,82420 "
+    },
+    {
+        "date": "04/17/2025",
+        "devise_complete": "1 RIYAL QATARI",
+        "taux_achat": "2,44880 ",
+        "taux_vente": "2,84580 "
+    },
+    {
+        "date": "04/17/2025",
+        "devise_complete": "1 DINAR BAHREINI",
+        "taux_achat": "23,6760 ",
+        "taux_vente": "27,5160 "
+    },
+    {
+        "date": "04/17/2025",
+        "devise_complete": "100 YENS JAPONAIS",
+        "taux_achat": "6,24980 ",
+        "taux_vente": "7,26320 "
+    },
+    {
+        "date": "04/17/2025",
+        "devise_complete": "1 RIYAL OMANI",
+        "taux_achat": "23,1840 ",
+        "taux_vente": "26,9440 "
+    },
+    {
+        "date": "04/16/2025",
+        "devise_complete": "1 EURO",
+        "taux_achat": "10,1486 ",
+        "taux_vente": "11,7944 "
+    },
+    {
+        "date": "04/16/2025",
+        "devise_complete": "1 DOLLAR U.S.A.",
+        "taux_achat": "8,91090 ",
+        "taux_vente": "10,3559 "
+    },
+    {
+        "date": "04/16/2025",
+        "devise_complete": "1 DOLLAR CANADIEN",
+        "taux_achat": "6,40150 ",
+        "taux_vente": "7,43950 "
+    },
+    {
+        "date": "04/16/2025",
+        "devise_complete": "1 LIVRE STERLING",
+        "taux_achat": "11,8360 ",
+        "taux_vente": "13,7560 "
+    },
+    {
+        "date": "04/16/2025",
+        "devise_complete": "1 LIVRE GIBRALTAR",
+        "taux_achat": "11,8360 ",
+        "taux_vente": "13,7560 "
+    },
+    {
+        "date": "04/16/2025",
+        "devise_complete": "1 FRANC SUISSE",
+        "taux_achat": "10,9620 ",
+        "taux_vente": "12,7400 "
+    },
+    {
+        "date": "04/16/2025",
+        "devise_complete": "1 RIYAL SAOUDIEN",
+        "taux_achat": "2,37470 ",
+        "taux_vente": "2,75970 "
+    },
+    {
+        "date": "04/16/2025",
+        "devise_complete": "1 DINAR KOWEITIEN",
+        "taux_achat": "29,0540 ",
+        "taux_vente": "33,7660 "
+    },
+    {
+        "date": "04/16/2025",
+        "devise_complete": "1 DIRHAM E.A.U.",
+        "taux_achat": "2,42610 ",
+        "taux_vente": "2,81950 "
+    },
+    {
+        "date": "04/16/2025",
+        "devise_complete": "1 RIYAL QATARI",
+        "taux_achat": "2,44460 ",
+        "taux_vente": "2,84100 "
+    },
+    {
+        "date": "04/16/2025",
+        "devise_complete": "1 DINAR BAHREINI",
+        "taux_achat": "23,6370 ",
+        "taux_vente": "27,4690 "
+    },
+    {
+        "date": "04/16/2025",
+        "devise_complete": "100 YENS JAPONAIS",
+        "taux_achat": "6,26990 ",
+        "taux_vente": "7,28670 "
+    },
+    {
+        "date": "04/16/2025",
+        "devise_complete": "1 RIYAL OMANI",
+        "taux_achat": "23,1450 ",
+        "taux_vente": "26,8990 "
+    },
+    {
+        "date": "04/15/2025",
+        "devise_complete": "1 EURO",
+        "taux_achat": "10,1291 ",
+        "taux_vente": "11,7717 "
+    },
+    {
+        "date": "04/15/2025",
+        "devise_complete": "1 DOLLAR U.S.A.",
+        "taux_achat": "8,93850 ",
+        "taux_vente": "10,3879 "
+    },
+    {
+        "date": "04/15/2025",
+        "devise_complete": "1 DOLLAR CANADIEN",
+        "taux_achat": "6,44450 ",
+        "taux_vente": "7,48950 "
+    },
+    {
+        "date": "04/15/2025",
+        "devise_complete": "1 LIVRE STERLING",
+        "taux_achat": "11,7940 ",
+        "taux_vente": "13,7060 "
+    },
+    {
+        "date": "04/15/2025",
+        "devise_complete": "1 LIVRE GIBRALTAR",
+        "taux_achat": "11,7940 ",
+        "taux_vente": "13,7060 "
+    },
+    {
+        "date": "04/15/2025",
+        "devise_complete": "1 FRANC SUISSE",
+        "taux_achat": "10,9340 ",
+        "taux_vente": "12,7070 "
+    },
+    {
+        "date": "04/15/2025",
+        "devise_complete": "1 RIYAL SAOUDIEN",
+        "taux_achat": "2,38200 ",
+        "taux_vente": "2,76820 "
+    },
+    {
+        "date": "04/15/2025",
+        "devise_complete": "1 DINAR KOWEITIEN",
+        "taux_achat": "29,1350 ",
+        "taux_vente": "33,8590 "
+    },
+    {
+        "date": "04/15/2025",
+        "devise_complete": "1 DIRHAM E.A.U.",
+        "taux_achat": "2,43360 ",
+        "taux_vente": "2,82820 "
+    },
+    {
+        "date": "04/15/2025",
+        "devise_complete": "1 RIYAL QATARI",
+        "taux_achat": "2,45190 ",
+        "taux_vente": "2,84950 "
+    },
+    {
+        "date": "04/15/2025",
+        "devise_complete": "1 DINAR BAHREINI",
+        "taux_achat": "23,7100 ",
+        "taux_vente": "27,5540 "
+    },
+    {
+        "date": "04/15/2025",
+        "devise_complete": "100 YENS JAPONAIS",
+        "taux_achat": "6,22930 ",
+        "taux_vente": "7,23950 "
+    },
+    {
+        "date": "04/15/2025",
+        "devise_complete": "1 RIYAL OMANI",
+        "taux_achat": "23,2170 ",
+        "taux_vente": "26,9810 "
+    },
+    {
+        "date": "04/14/2025",
+        "devise_complete": "1 EURO",
+        "taux_achat": "10,1505 ",
+        "taux_vente": "11,7965 "
+    },
+    {
+        "date": "04/14/2025",
+        "devise_complete": "1 DOLLAR U.S.A.",
+        "taux_achat": "8,90940 ",
+        "taux_vente": "10,3542 "
+    },
+    {
+        "date": "04/14/2025",
+        "devise_complete": "1 DOLLAR CANADIEN",
+        "taux_achat": "6,43790 ",
+        "taux_vente": "7,48190 "
+    },
+    {
+        "date": "04/14/2025",
+        "devise_complete": "1 LIVRE STERLING",
+        "taux_achat": "11,7240 ",
+        "taux_vente": "13,6260 "
+    },
+    {
+        "date": "04/14/2025",
+        "devise_complete": "1 LIVRE GIBRALTAR",
+        "taux_achat": "11,7240 ",
+        "taux_vente": "13,6260 "
+    },
+    {
+        "date": "04/14/2025",
+        "devise_complete": "1 FRANC SUISSE",
+        "taux_achat": "10,9080 ",
+        "taux_vente": "12,6760 "
+    },
+    {
+        "date": "04/14/2025",
+        "devise_complete": "1 RIYAL SAOUDIEN",
+        "taux_achat": "2,37370 ",
+        "taux_vente": "2,75870 "
+    },
+    {
+        "date": "04/14/2025",
+        "devise_complete": "1 DINAR KOWEITIEN",
+        "taux_achat": "29,0590 ",
+        "taux_vente": "33,7710 "
+    },
+    {
+        "date": "04/14/2025",
+        "devise_complete": "1 DIRHAM E.A.U.",
+        "taux_achat": "2,42560 ",
+        "taux_vente": "2,81900 "
+    },
+    {
+        "date": "04/14/2025",
+        "devise_complete": "1 RIYAL QATARI",
+        "taux_achat": "2,44400 ",
+        "taux_vente": "2,84040 "
+    },
+    {
+        "date": "04/14/2025",
+        "devise_complete": "1 DINAR BAHREINI",
+        "taux_achat": "23,6330 ",
+        "taux_vente": "27,4650 "
+    },
+    {
+        "date": "04/14/2025",
+        "devise_complete": "100 YENS JAPONAIS",
+        "taux_achat": "6,24220 ",
+        "taux_vente": "7,25440 "
+    },
+    {
+        "date": "04/14/2025",
+        "devise_complete": "1 RIYAL OMANI",
+        "taux_achat": "23,1420 ",
+        "taux_vente": "26,8940 "
+    }
+]

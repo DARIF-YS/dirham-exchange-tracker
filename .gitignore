@@ -1,0 +1,14 @@
+# Fichiers de configuration
+.env
+
+# Environnements virtuels
+.venv/
+
+# Dossiers d'IPython Notebooks (checkpoints)
+.ipynb_checkpoints/
+
+# Fichiers et répertoires Airflow
+airflow/*
+!airflow/dags/
+
+__pycache__
