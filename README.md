@@ -18,8 +18,8 @@ Mettre en place une pipeline ETL automatisée pour collecter, nettoyer, stocker 
 - Tableau de bord connecté à la base PostgreSQL  
 
 Exemples de visualisations issues du tableau de bord :
-#### 3.1 Comparaison globale des taux de change
+#### a. Comparaison globale des taux de change
 <img width="1006" height="1061" alt="img1" src="https://github.com/user-attachments/assets/6781a473-de95-466f-b037-9078cde33fec" />
 
-#### 3.2 Analyse temporelle des taux de change
+#### b. Analyse temporelle des taux de change
 <img width="1249" height="897" alt="img2" src="https://github.com/user-attachments/assets/62b61ece-f550-4cdb-9906-4eeb26a7de7a" />
