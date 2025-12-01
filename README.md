@@ -23,3 +23,5 @@ Exemples de visualisations issues du tableau de bord :
 
 #### b. Analyse temporelle des taux de change
 <img width="1249" height="897" alt="img2" src="https://github.com/user-attachments/assets/62b61ece-f550-4cdb-9906-4eeb26a7de7a" />
+
+**Yassine DARIF** | INSEA - 2025
