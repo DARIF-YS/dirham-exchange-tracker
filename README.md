@@ -1,27 +1,44 @@
-## Suivi des taux de change du Dirham Marocain (MAD)
+## Moroccan Dirham Exchange Rate Monitoring
 
-Projet de scraping, transformation et visualisation des taux de change du dirham marocain (MAD) face aux principales devises étrangères.  
-Les données sont extraites quotidiennement depuis le site officiel de Bank Al-Maghrib.
+This project focuses on scraping, transforming, and visualizing the exchange rates of the Moroccan Dirham (MAD) against major foreign currencies. The data is extracted daily from the official Bank Al-Maghrib website.
 
-### 1. Objectif
-Mettre en place une pipeline ETL automatisée pour collecter, nettoyer, stocker et analyser les taux de change quotidiens.
+### 1. Objective
 
-### 2. Stack technique
-- Selenium, Pandas – extraction et transformation  
-- Airflow – orchestration de la pipeline  
-- PostgreSQL (Aiven Cloud) – stockage des données  
-- Looker Studio – visualisation interactive  
+The main goal is to establish a robust and automated **ETL (Extract, Transform, Load) pipeline** to reliably collect, clean, store, and analyze daily exchange rate data.
 
-### 3. Résultats
-- Suivi des taux d’achat, de vente et du taux moyen  
-- Analyse temporelle et détection des écarts  
-- Tableau de bord connecté à la base PostgreSQL  
+### 2. Technical Stack
 
-Exemples de visualisations issues du tableau de bord :
-#### a. Comparaison globale des taux de change
-<img width="1006" height="1061" alt="img1" src="https://github.com/user-attachments/assets/6781a473-de95-466f-b037-9078cde33fec" />
+The following technologies are used to build and orchestrate the data pipeline:
 
-#### b. Analyse temporelle des taux de change
-<img width="1249" height="897" alt="img2" src="https://github.com/user-attachments/assets/62b61ece-f550-4cdb-9906-4eeb26a7de7a" />
+* **Extraction & Transformation:** Selenium and Pandas
+* **Orchestration:** Apache Airflow (for scheduling and managing the pipeline workflow)
+* **Data Storage:** PostgreSQL (hosted on Aiven Cloud for scalability and reliability)
+* **Visualization:** Looker Studio (for creating interactive dashboards)
 
-**Yassine DARIF** | INSEA - 2025
+### 3. Project Workflow
+
+This diagram illustrates the flow of data from the source (Bank Al-Maghrib) through the processing stages to the final visualization dashboard.
+
+
+<img width="1200" alt="Project Workflow Diagram" src="https://github.com/user-attachments/assets/286f2486-2671-4d70-9cac-7113d0d12e0b" />
+
+### 4. Key Results and Analysis
+
+The implemented system provides the following actionable insights:
+
+* **Rate Monitoring:** Daily tracking of buying rates, selling rates, and the calculated average rate.
+* **Temporal Analysis:** Detailed time-series analysis to identify trends and detect significant deviations or anomalies.
+* **Interactive Dashboard:** A dynamic dashboard, directly connected to the PostgreSQL database, enabling real-time data exploration.
+
+#### Visualization Examples
+
+##### a. Global Comparison of Exchange Rates
+<img width="1006" height="1061" alt="Global Comparison of Exchange Rates" src="https://github.com/user-attachments/assets/6781a473-de95-466f-b037-9078cde33fec" />
+
+##### b. Time-Series Analysis of Exchange Rates
+<img width="1249" height="897" alt="Time-Series Analysis of Exchange Rates" src="https://github.com/user-attachments/assets/62b61ece-f550-4cdb-9906-4eeb26a7de7a" />
+
+
+__
+
+*Developed by Yassine DARIF - 2025*
