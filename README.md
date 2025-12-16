@@ -1,4 +1,4 @@
-## 💱 Moroccan Dirham Exchange Rate Monitoring 📈
+## Moroccan Dirham Exchange Rate Monitoring 📈
 
 This project focuses on scraping, transforming, and visualizing the exchange rates of the Moroccan Dirham (MAD) against major foreign currencies. The data is extracted daily from the official Bank Al-Maghrib website.
 
